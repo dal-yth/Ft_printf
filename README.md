@@ -1,5 +1,5 @@
 # Ft_printf
-42 school algorithmic project.
+42 school algorithm project.
 
 Score 112/100
 
