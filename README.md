@@ -10,8 +10,8 @@ The goal of this project is to learn about variadic functions and to train displ
 - Re-code of printf, sprintf and dprintf
 - Supports conversions %cspdiouxXf (and b to print in binary)
 - Supports flags h, hh, l, ll, L, #, 0, -, +, ' '
-- Support for asterisk (*)
 - Support for width and precision
+- Support for asterisk (*)
 - Support for %%
 - Colours, ex. %{RED} %{EOC}
 
