@@ -21,7 +21,7 @@ The goal of this project is to learn about variadic functions and to train displ
 Ft_printf is designed to be used exactly the same way as you would use normal printf and it's output is designed to match the printf on our schools iMacs. To see the full usage you can give ft_printf "%help" as format string and it will print out full usage.
 
 ### Conversions
-
+![Specifiers](/images/ft_printf.jpg)
 
 ### Note
 My implementation of ft_printf requires my libft since we are not allowed to use any standard library functions. If you wish to test it out, head over to: 
