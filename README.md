@@ -26,4 +26,4 @@ In the image above, you can see how specifiers affect different conversions.
 
 ### Note
 My implementation of ft_printf requires my libft since we are not allowed to use any standard library functions. If you wish to test it out, head over to: 
-##### [My libft repository](https://github.com/jmakela42/Libft)
+#### [My libft repository](https://github.com/jmakela42/Libft)
