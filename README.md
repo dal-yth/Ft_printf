@@ -22,6 +22,7 @@ Ft_printf is designed to be used exactly the same way as you would use normal pr
 
 ### Conversions
 ![Specifiers](/images/ft_printf.jpg)
+In the image above, you can see how specifiers affect different conversions.
 
 ### Note
 My implementation of ft_printf requires my libft since we are not allowed to use any standard library functions. If you wish to test it out, head over to: 
