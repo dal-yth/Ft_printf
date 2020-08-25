@@ -1,7 +1,7 @@
 # Ft_printf
 42 school algorithm project.
 
-Score 112/100
+##### Score 112/100
 
 
 The goal of this project is to learn about variadic functions and to train display options managements skills. 
